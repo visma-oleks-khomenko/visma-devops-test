@@ -5,5 +5,4 @@
 public with sharing class UtilityConstants {
   public static final String EMPLOYEE_PROFILE = 'SwNO Employee';
   public static final String ADMIN_PROFILE = 'SwNO System Administrator';
-  public static final String TestVar = 'DevOpsUtil'; // change from GIT // new comment   // comment removed
 }
